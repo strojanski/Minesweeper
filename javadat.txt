@@ -1,0 +1,11 @@
+./src/skupno/Konstante.java
+./src/skupno/Polje.java
+./src/skupno/Stroj.java
+./src/ogrodje/Stanje.java
+./src/ogrodje/Razpored.java
+./src/ogrodje/Igra.java
+./src/s12345678/Stroj_Nakljucko.java
+./src/s63200306/Stroj_Strojan.java
+
+
+
